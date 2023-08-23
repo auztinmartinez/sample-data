@@ -1,0 +1,34 @@
+{
+  "radiometers": [
+    {
+      "id" : "0X1E1BFEE6",
+      "name" : "Radiometer 1",
+      "location" : "West Henrietta, NY",
+      "coordinates" : "43.074812, -77.682454"
+    },
+    {
+      "id" : "0X6185CC28",
+      "name" : "Radiometer 2",
+      "location" : "Rochester, NY",
+      "coordinates" : "43.162567, -77.618305"
+    },
+    {
+      "id" : "0XAF77B198",
+      "name" : "Radiometer 3",
+      "location" : "Brookings, SD",
+      "coordinates" : "44.323582, -96.773912"
+    },
+	{
+      "id" : "0XDCBF5A7F",
+      "name" : "Radiometer 4",
+      "location" : "La Jolla, CA",
+      "coordinates" : "32.840730, -117.265869"
+    },
+	{
+      "id" : "0XU937HEB3",
+      "name" : "Radiometer 5",
+      "location" : "Bexar County, TX",
+      "coordinates" : "29.633545, -98.564433"
+    },
+  ]
+}
